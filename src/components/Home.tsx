@@ -1,9 +1,11 @@
 import React from 'react'
+//
 
-export default function Header() {
+function Home() : JSX.Element{
   return (
     <div>
-      
+      Home
     </div>
   )
 }
+export default Home
